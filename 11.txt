@@ -1,0 +1,36 @@
+<html>
+    <head>
+        <link rel="stylesheet" href="style.css">
+        <title>моя сторінка  </title>
+    </head>
+    <body>
+        <header>
+    <h1>зарубіжна література</h1>
+    <nav>
+        <a href="index.htm1">Головна</a>
+        <a href="index.htm2">план</a>
+        <a href="index.htm3">біографія Кафки</a>
+    </nav>
+        </header>
+        <main>
+            <div>
+                Головна
+        <img src="Zarubizhna-literatura-SHkilne-zhyttya.jpg">
+        <p>appel</p>
+            </div>
+            <div>
+                План
+                <img src="985728960">
+                <p>appel</p>
+                    </div>
+                    <div>
+                        Біографія
+                        <img src="20150609_knigi_300x200.jpg">
+                        <img src="Zarubizhna-literatura-SHkilne-zhyttya-390x220.jpg.pagespeed.ce.skCM-3jWd0.jpg"
+                            </div>
+        </main>
+        <foooter>
+   Кожан Ольга і Ковалиш Дарья
+        </footer>
+    </body>
+</html>

@@ -1,0 +1,43 @@
+h1{
+    color:rgb(80, 99, 185);
+    font-size: 60px;
+}
+p{
+    color:rgb(72, 172, 155);
+    font-size: 50px;
+}
+img{
+    height: 260px;
+    width: 260px;
+}
+a{
+    text-decoration: none;
+    border-radius: 20px;
+    background-color: rgb(153, 143, 50);
+    height: 100px;
+    color: blue;
+    font-size: 30px;
+}
+header{
+    height: ;
+    background-color: brown;
+margin: 30px:
+}
+main{
+    display:flex;
+    justify-content: space-between;
+    margin: 40px;
+}
+footer{
+height: ;
+background-color:bisque ;
+margin:40px;
+}
+nav{
+    display: flex;
+    justify-content: space-around;
+}
+.name{
+    color: rgb(0, 255, 213);
+}
+a:hover{background-color: rgb(143, 63, 136);}
